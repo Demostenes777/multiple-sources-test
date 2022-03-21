@@ -1,0 +1,6 @@
+[submodule "repo-1"]
+	path = repo-1
+	url = git@gitlab.cee.redhat.com:amendiol/repo-1.git
+[submodule "repo-2"]
+	path = repo-2
+	url = git@gitlab.cee.redhat.com:amendiol/repo-2.git
