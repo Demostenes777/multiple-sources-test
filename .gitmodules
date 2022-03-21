@@ -4,3 +4,6 @@
 [submodule "repo-2"]
 	path = repo-2
 	url = git@gitlab.cee.redhat.com:amendiol/repo-2.git
+[submodule "crucible"]
+	path = crucible
+	url = git@github.com:Demostenes777/crucible.git
